@@ -4,8 +4,10 @@ html {
 
 header {
     text-align: center;
+    display: inline-block;
 }
 
 h1.greeting {
     border-color: purple;
+    border-width: 5px;
 }
