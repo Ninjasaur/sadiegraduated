@@ -1,3 +1,11 @@
 html {
     font-family: 'Merienda';
 }
+
+header {
+    text-align: center;
+}
+
+h1.greeting {
+    border-color: purple;
+}
