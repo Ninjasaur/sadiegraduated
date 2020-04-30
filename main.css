@@ -10,8 +10,16 @@ h1.greeting {
     text-align: center;
     background-color: purple;
     color: white;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-bottom: 5px;
+}
+h1 {
+    text-align: center;
+    background-color: gray;
+    color: white;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 img {
