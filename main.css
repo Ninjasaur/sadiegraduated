@@ -8,15 +8,10 @@ header {
 
 h1.greeting {
     text-align: center;
-    background-color: purple;
-    color: white;
-    margin-left: 250px;
-    margin-right: 250px;
-    padding-bottom: 5px;
 }
 h1 {
     text-align: center;
-    background-color: gray;
+    background-color: purple;
     color: white;
     margin-left: 40px;
     margin-right: 40px;
