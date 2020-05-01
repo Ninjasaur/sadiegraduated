@@ -9,6 +9,7 @@ header {
 h1.greeting {
     text-align: center;
     background-color: white;
+    color: black;
 }
 h1 {
     text-align: center;
