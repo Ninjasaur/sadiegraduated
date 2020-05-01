@@ -39,3 +39,7 @@ figcaption {
 footer {
     text-align: center;
 }
+
+p.humans {
+    text-decoration: none;
+}

@@ -1,1 +1,19 @@
+# humanstxt.org
 
+# TEAM
+
+    Me: Sadie Esch-Laurent                          
+    Site: window.location.hostname                       
+    Location: Michigan, US
+
+# THANKS
+
+    Paul Esch-Laurent
+    Stack Overflow
+    H20
+                            
+# SITE
+                          
+    Last update: 2020/05/06                          
+    Standards: HTML5, CSS3                 
+    Software: Visual Studio Code, GitHub Desktop
