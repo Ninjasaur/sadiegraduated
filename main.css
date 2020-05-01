@@ -8,6 +8,7 @@ header {
 
 h1.greeting {
     text-align: center;
+    background-color: none;
 }
 h1 {
     text-align: center;
@@ -29,6 +30,7 @@ section {
 }
 figcaption {
     margin-top: 10px;
+    text-align: center;
 }
 
 footer {
